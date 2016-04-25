@@ -1,0 +1,71 @@
+body {
+ margin: 0;
+background:#550000;
+     background-size: 1440px 800px;
+     background-repeat:no-repeat;
+	display: compact;
+     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #550000;
+}
+.navbar-default{	 
+	font: 14x "Arial", Helvetica, Arial, sans-serif;
+	
+	background-color:#FF6800; 
+}
+
+.navbar-default .navbar-nav>li>a {
+	background-color:#FF6800;
+	color: #FFffff;
+}
+
+pre {
+font-size:14px;
+	background-color:#ffffff;
+	border-color:#0000ff;
+	color: #0000ff;
+	border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-inverse{
+background-color:#FF1900;
+border-color:#FF1900;
+}	
+
+.navbar-inverse .navbar-brand{
+color:#FF6800;
+}
+
+.btn-default{
+background-color:#ffffff;
+	color:#0000ff;
+	border-color: #0000ff;
+	   border-width: 2px;
+    border-radius: 10px;
+}
+
+.btn-default:hover{
+background-color:#ffffff;
+	color:#000000;
+	border-color: #0000ff;
+	   border-width: 2px;
+    border-radius: 10px;
+}
+
+.btn-danger{
+background-color:#ffffff;
+	color:#ff0000;
+	border-color: #ff0000;
+	   border-width: 3px;
+    border-radius: 10px;
+}
+
+.btn-danger:hover{
+background-color:#ffffff;
+	color:#000000;
+	border-color: #ff0000;
+	   border-width: 3px;
+    border-radius: 10px;
+}
